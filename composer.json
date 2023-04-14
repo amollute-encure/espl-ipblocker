@@ -1,0 +1,17 @@
+{
+    "name": "encur/ipblocker",
+    "description": "A Laravel Package to increase the security of your websites by preventing access for users having blocked IP Addresses.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Amol Lute",
+            "email": "amol.lute@encureit.com"
+        }
+    ],
+    "require": {},
+    "autoload": {       
+        "psr-4": {
+         "espl\\ipblocker\\": "packages/espl/ipblocker/src",
+        }
+    },
+}
