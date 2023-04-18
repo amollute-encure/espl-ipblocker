@@ -15,5 +15,11 @@
             "Espl\\Greetr\\": "src/"
         }
     },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/amollute-encure/espl-ipblocker.git"
+        }
+    ],
     "require": {}
 }
