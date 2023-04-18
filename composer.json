@@ -20,5 +20,11 @@
         "php": "^8.1",
         "illuminate/contracts": "^10.0"
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "test"
+        }
+    ]
     
 }
