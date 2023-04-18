@@ -1,6 +1,7 @@
 {
     "name": "encur/ipblocker",
     "description": "A Laravel Package to increase the security of your websites by preventing access for users having blocked IP Addresses.",
+    "homepage": "https://github.com/amollute-encure/espl-ipblocker",
     "type": "library",
     "authors": [
         {
